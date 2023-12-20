@@ -1,10 +1,9 @@
-<meta name="google-site-verification" content="0RdAdr8mHhtWbIIf4qEouaxO98WBOHltTrgjvakWwF0" />
 <h1 align="center">Hi 👋, I'm Durgesh Vaigandla</h1>
 <h3 align="center">I am a passionate learner and I am always looking for new challenges. I am also a team player and I am always willing to help others. I am confident that I can make a valuable contribution to your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-vaigandla&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-vaigandla" /> </p>
 
-- 🔭 I’m currently working on **BackEnd**
+- 🔭 I’m currently working on **Back-End**
 
 - 🌱 I’m currently learning **NodeJS**
 
