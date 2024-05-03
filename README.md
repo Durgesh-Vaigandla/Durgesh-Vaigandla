@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgesh-vaigandla&label=Profile%20views&color=0e75b6&style=flat" alt="durgesh-vaigandla" /> </p>
 
-- 🔭 I’m currently working on **Back-End**
+- 🔭 I’m currently working on **Open source contributions**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Java Basics**
 
 - 👯 I’m looking to collaborate on **Focusquest**
 
