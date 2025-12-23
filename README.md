@@ -4,15 +4,13 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Durgesh Vaigandla</h1>
-<h3 align="center">Final-year CS Undergrad | Web & App Developer | SaaS Builder</h3>
+<h3 align="center">Project Engineer@aavanto | Web & App Developer | SaaS Builder</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final Year **Computer Science Undergrad**  
 - 💻 Building **SaaS products** and delivering projects to real clients
 - 🔭 Currently working on: **Triptopia (AI-powered Travel SaaS)**  
-- 📚 Preparing for **GATE 2025** alongside project work  
 - 🌱 Learning & improving in **Backend + Scalable Architectures**  
 - 👯 Open to collaborate on **Full Stack / SaaS projects**  
 - 💬 Ask me about: **React, React Native, Next.js, JAMstack, Node.js, Python**
@@ -35,16 +33,6 @@
 
 ---
 
-### 🌟 Highlights
-- 🏆 **2nd Prize Winner** at *Hack with Nellore Hackathon* (Triptopia)  
-- 🥇 **1st Prize Frontend Design** at *Trishna 2K24 Symposium*  
-- 💼 Built & delivered websites for clients:  
-  - [CSEdge](https://csedge.courses)  
-  - [UB Biosciences](https://ubbiosciences.com)  
-  - and more...
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=durgesh-vaigandla&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -56,9 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=durgesh-vaigandla&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/vaigandladurgesh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaigandladurgesh" height="30" width="40" /></a>
-</p>
